@@ -4,4 +4,4 @@ A cada semana, enfrentamos desafios que nos permitem aplicar nossas habilidades 
 
 <h2> Desafios</h2> 
 
--  <a href="https://kathllynsantos.github.io/Elas-Na-Tech-Desafio1/" target="_blank">Desafio 01</a>
+-  <a href="https://github.com/KathllynSantos/Elas-Na-Tech-Desafio1/blob/main/README.md" target="_blank">Desafio 01</a>
