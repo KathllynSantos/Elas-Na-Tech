@@ -6,6 +6,8 @@ A cada semana, enfrentamos desafios que nos permitem aplicar nossas habilidades 
 
 - <a href="https://github.com/KathllynSantos/Elas-Na-Tech-Desafio1" target="_blank">Desafio 01</a>
 - <a href="https://github.com/KathllynSantos/Elas-Na-Tech-Desafio2" target="_blank">Desafio 02</a>
+- <a href="https://github.com/KathllynSantos/Elas-Na-Tech-Desafio3" target="_black">Desafio 03</a>
+- <a href="https://github.com/KathllynSantos/Elas-Na-Tech-Desafio4" target="_black">Desafio 04</a>
 
 <h2> 💻 Tecnologias Utilizadas no Desafio</h2>
 
