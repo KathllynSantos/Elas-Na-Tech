@@ -9,10 +9,12 @@ A cada semana, enfrentamos desafios que nos permitem aplicar nossas habilidades 
 - <a href="https://github.com/KathllynSantos/Elas-Na-Tech-Desafio3" target="_black">Desafio 03</a>
 - <a href="https://github.com/KathllynSantos/Elas-Na-Tech-Desafio4" target="_black">Desafio 04</a>
 - <a href="https://github.com/KathllynSantos/Elas-Na-Tech-Desafio5" target="_black">Desafio 05</a>
+- <a href="https://github.com/KathllynSantos/Elas-Na-Tech-Desafio6" target="_black">Desafio 06</a>
 
 <h2> 💻 Tecnologias Utilizadas no Desafio</h2>
 
 <div stayle="display: inline_block"><br/>
 <img src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src= "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 </div>
